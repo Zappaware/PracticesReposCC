@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vYQmrSE5swoiV8e4FRwxJIFh3W1gYGw9xh5iZVKsYfZrBquz/70HgyuGX8Kk56qwPtEkYHf6KJ3YDtj4nw8KRw==",
+  "dgSpecHash": "Oc7uO6/inI/tZQmnLRxI9wMuGdodTcgwb3inkhMWsZxCxShvXGjSXAK3T83n+zyolemPQMaTygHoe/lejXYYKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\RiderProjects\\PracticesReposCC\\ClassesPractice\\ForestClassPractice.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
-  ],
+  "projectFilePath": "/home/sergeycerv/Documentos/PracticesReposCC/ClassesPractice/ForestClassPractice.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
